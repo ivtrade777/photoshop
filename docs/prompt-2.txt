@@ -1,0 +1,1 @@
+Great. Now make it more like real Photoshop: add a magic wand selection tool, a clone stamp tool, layer blend modes, a curves adjustment, and a one-click "remove background" button.
